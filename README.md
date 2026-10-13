@@ -14,7 +14,7 @@ Um plugin que já nasce pronto: escolha o que capturar e arraste para o clip. Se
 - **Plugin próprio no Resolume Arena/Avenue:** aparece em *Sources* com nome e miniatura. Também envia por Spout para outros programas.
 - **YouTube com controles:** player próprio com volume, posição, velocidade, qualidade, pular anúncio e cast do celular.
 - **Painel flutuante:** fica por cima de tudo, até de vídeo em tela cheia, e vai para a bandeja ou para a barra de tarefas.
-- **Controle por OSC:** troque a fonte, esconda a janela e pare a captura pelo próprio Resolume.
+- **Controle por OSC:** o app recebe comandos OSC na porta 7000 (trocar a janela ou a tela, definir uma região, esconder e parar). Funciona com o campo de OSC do clip no Resolume ou com apps como Chataigne e Companion; a lista de endereços está nas notas de cada versão.
 - **Instalação simples:** "Avançar, avançar, concluir". Já inclui tudo o que precisa e instala o plugin no Resolume.
 
 ## Licença
