@@ -2,7 +2,7 @@
 
 **Qualquer janela, tela, região ou vídeo do YouTube direto no Resolume.**
 
-Um plugin que já nasce pronto: escolha o que capturar (ou cole um link do YouTube) e arraste para o clip. Sem configurar nada.
+Um plugin que já nasce pronto: escolha o que capturar, cole um link do YouTube ou **transmita e controle o vídeo pelo app do YouTube no celular**, e arraste para o clip. Sem configurar nada.
 
 [**Comprar a licença vitalícia — R$ 97 (lançamento)**](https://pay.kiwify.com.br/ZqrL85m) · preço normal R$ 127 · pagamento único · 1 computador
 
@@ -11,7 +11,7 @@ Um plugin que já nasce pronto: escolha o que capturar (ou cole um link do YouTu
 ## O que você leva
 
 - **Janela, tela ou região:** escolha uma janela, um monitor inteiro ou desenhe um quadro ajustável na tela, com pontos nos cantos e nos lados.
-- **YouTube direto no Resolume:** cole um link ou faça uma busca e o vídeo vira uma fonte do clip, com player próprio (volume, posição, velocidade, qualidade, pular anúncio) e cast do celular.
+- **YouTube direto no Resolume:** cole um link ou faça uma busca e o vídeo vira uma fonte do clip, com player próprio (volume, posição, velocidade, qualidade, pular anúncio). **Pelo celular:** abra o app do YouTube, toque em transmitir e escolha o Prisma Capture na lista: o vídeo toca no Resolume e você controla (tocar, pausar, trocar de vídeo, volume) pelo próprio app do YouTube no celular.
 - **Plugin próprio no Resolume Arena/Avenue:** aparece em *Sources* com nome e miniatura. Também envia por Spout para outros programas.
 - **Painel flutuante:** fica por cima de tudo, até de vídeo em tela cheia, e vai para a bandeja ou para a barra de tarefas.
 - **Controle por OSC e módulo para o Bitfocus Companion:** o app recebe comandos OSC (porta 7000) para trocar a janela ou a tela, definir uma região, esconder, parar e controlar o player do YouTube. O módulo do Companion (arquivo `.tgz` na página de downloads) traz ações, botões prontos, feedbacks e variáveis.
